@@ -1,0 +1,4 @@
+#Sun Mar 01 12:45:30 PKT 2020
+base.0=E\:\\FlutterApps\\chalanah\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
